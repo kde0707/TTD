@@ -19,4 +19,4 @@
 ## 📚 관련 URL
 
 - [TTD 발표](https://www.miricanvas.com/v/115c7v5)
-- [노션](https://spring-periodical-246.notion.site/F-da3ee011b9484747b96eac53da02b1b9?pvs=4](https://aron500.notion.site/0f7e32b9a4324a2894a09ed3f751c64b?pvs=4))
+- [노션](https://aron500.notion.site/0f7e32b9a4324a2894a09ed3f751c64b?pvs=4)
